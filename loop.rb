@@ -24,6 +24,6 @@ end
 3.times {|i| puts "i is: #{i}"}
 
 # #each
-(1..2).each do |num|
-    puts num
+(1..2).each do |i|
+    puts i
 end
